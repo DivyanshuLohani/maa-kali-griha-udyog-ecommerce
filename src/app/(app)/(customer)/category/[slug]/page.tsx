@@ -11,7 +11,7 @@ export default async function page({
   searchParams: { page?: string };
 }) {
   const page = parseInt(searchParams.page ?? "1");
-  const perPage = 24;
+  const perPage = 48;
   const category = await findCategoryByString(params.slug);
   if (!category) notFound();
   const { products, totalProducts } = await fetchProducts(
