@@ -2,6 +2,9 @@
 
 This is the repository for Maa Kali Griha Udyog's e-commerce website, built using **Next.js** as the frontend framework, with **PostgreSQL** as the database, **Tailwind CSS** for styling, and **Framer Motion** for animations. The website supports online payments through **PhonePe** and media uploads via **Cloudinary**.
 
+![image](https://github.com/user-attachments/assets/3570874a-744a-4c09-9e08-730c388e2f60)
+
+
 ## Table of Contents
 
 - [Tech Stack](#tech-stack)
