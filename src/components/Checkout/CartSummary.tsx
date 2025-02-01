@@ -43,7 +43,7 @@ const CartSummary = () => {
               <br />
               <span className="text-sm text-red-500">
                 Add items worth Rs.{" "}
-                {formatCurrency(MIN_ORDER_VALUE - cartTotal)} to poceed to
+                {formatCurrency(MIN_ORDER_VALUE - cartTotal)} to proceed to
                 checkout
               </span>
               <br />
